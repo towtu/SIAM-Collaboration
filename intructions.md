@@ -41,7 +41,7 @@ When starting your assigned task, follow these steps:
 ## ✅ Task Checklists
 
 ### 1. Planning & Backlog Checklist (Due: Friday, 24 April, 12:00 AM)
-**Assignee:** Kent Chavo
+**Assignee:** Joseph Pendon
 
 - [ ] Created `docs/backlog.md`
 - [ ] Wrote at least 10 user stories
@@ -55,7 +55,7 @@ When starting your assigned task, follow these steps:
 - [ ] Committed and pushed changes
 
 ### 2. Risk Management + Team Workflow Controls (Due: Friday, 24 April, 12:00 AM)
-**Assignee:** Joseph Pendon
+**Assignee:** Koby Atilano
 
 - [ ] Created `docs/risk-register.md`
 - [ ] Listed at least 8 risks
@@ -69,7 +69,7 @@ When starting your assigned task, follow these steps:
 - [ ] Took screenshot of PR
 
 ### 3. Software Quality Assurance + Testing + Defect Management (Due: Friday, 24 April, 12:00 AM)
-**Assignee:** Koby Atilano
+**Assignee:** Richter Yap
 
 - [ ] Created `docs/qa-plan.md`
 - [ ] Defined test types (unit/integration)
