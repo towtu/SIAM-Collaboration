@@ -1,4 +1,4 @@
-# UniRoom (Campus Study Room Booking System) - Project Workspace
+# UniBud (Student Study Group Finder web app) - Project Workspace
 
 ## 👥 Team Members & Assignments
 
