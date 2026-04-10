@@ -1,0 +1,19 @@
+{
+  "name": "unibud-qa",
+  "version": "1.0.0",
+  "description": "Testing for UniBud",
+  "license": "ISC",
+  "author": "Richter Anthony P. Yap",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
