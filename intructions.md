@@ -83,7 +83,7 @@ When starting your assigned task, follow these steps:
 - [ ] Screenshot of passing tests
 
 ### 4. Software Configuration Management (Git mastery) (Due: Friday, 24 April, 12:00 AM)
-**Assignee:** Richter Yap
+**Assignee:** Kent Chavo
 
 - [ ] Created feature branch
 - [ ] Added 1 new feature
