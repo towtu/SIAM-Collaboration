@@ -35,3 +35,31 @@
 - Team is still learning the framework — buffer time included
 - Database schema may need revisions as stories are built
 - Email confirmation (US-01) depends on SMTP setup
+
+---
+
+## Change Requests & Scope Management
+
+### CR-001: Push Notifications for Group Updates (NEW)
+
+**Change Request Date:** April 22, 2026  
+**Requested by:** Product Owner  
+**Status:** Under Review
+
+**New Requirement:** US-11 (Push Notifications for Group Updates)
+- Story Points: 8
+- Priority: Medium
+- Blocks Sprint 1: No (recommended for Sprint 2)
+
+**Impact Analysis:**
+- **Backlog:** Total points increased from 39 to 47 (18% increase)
+- **Risk Register:** Added RISK-09 (Push notification service dependency)
+- **Sprint 1 Capacity:** 16 committed points; cannot absorb 8-point feature without dropping other work
+- **Recommendation:** Add to Sprint 2 backlog after Sprint 1 review and team capacity assessment
+
+**Decision:** *(To be determined in sprint planning meeting)*
+- [ ] Defer to Sprint 2
+- [ ] Add to Sprint 1 by removing lower-priority items
+- [ ] Add as stretch goal if velocity allows
+
+---

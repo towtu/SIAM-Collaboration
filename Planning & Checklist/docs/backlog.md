@@ -139,11 +139,26 @@ A web application that helps university students find, create, and join study gr
 
 ---
 
+### US-11: Push Notifications for Group Updates *(NEW - Change Request)*
+**As a** group member, **I want** to receive mobile push notifications when new messages are posted or group details are updated **so that** I stay informed in real-time.
+
+- **Priority:** Medium
+- **Story Points:** 8
+- **Acceptance Criteria:**
+  - Users can enable/disable notifications in settings
+  - Push notifications sent when member posts a message
+  - Push notifications sent when group admin updates group details
+  - Notifications work on both iOS and Android
+  - Notification badge shows unread message count
+  - Notifications respect user timezone preferences
+
+---
+
 ## Summary
 
 | Priority | Count | Total Points |
 |----------|-------|--------------|
 | High     | 5     | 16           |
-| Medium   | 4     | 18           |
+| Medium   | 5     | 26           |
 | Low      | 1     | 5            |
-| **Total**| **10**| **39**       |
+| **Total**| **11**| **47**       |

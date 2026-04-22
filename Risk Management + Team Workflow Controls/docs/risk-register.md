@@ -130,6 +130,19 @@
 
 ---
 
+### RISK-09: Push Notification Service Dependency *(NEW - Change Request CR-001)*
+
+| Field           | Detail                                                                 |
+|-----------------|------------------------------------------------------------------------|
+| **Description** | Push notification delivery (US-11) depends on third-party services (Firebase, OneSignal). Service outage, rate limiting, or API changes could break notifications for all users. |
+| **Likelihood**  | Medium (2)                                                             |
+| **Impact**      | Medium (2)                                                             |
+| **Risk Score**  | 4 — Medium                                                             |
+| **Mitigation**  | Select reliable push service with SLA ≥99.9%. Implement fallback email notifications if push fails. Monitor service status daily. Add circuit breaker pattern in notification code. Test failover scenario in staging before production. |
+| **Owner**       | Koby Atilano (Backend Lead)                                            |
+
+---
+
 ## Risk Summary Table
 
 | ID       | Risk Title                                      | Likelihood | Impact | Score | Level  | Owner              |
@@ -142,3 +155,4 @@
 | RISK-06  | Deployment failure at submission                | Low        | High   | 3     | Medium | Kent & Joseph      |
 | RISK-07  | Scope creep delays core features                | Medium     | Medium | 4     | Medium | Kent Chavo         |
 | RISK-08  | Real-time chat causes performance issues        | Medium     | Medium | 4     | Medium | Joseph Pendon      |
+| RISK-09  | Push notification service dependency *(NEW)*    | Medium     | Medium | 4     | Medium | Koby Atilano       |
